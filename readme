@@ -1,8 +1,8 @@
 esp8266
 led
 2 wire
-1-g
-2-d2
+led g-1-g
+led in-2-d2
 https://thingesp.siddhesh.me/#/
 
 wesite for number configration also remeber to chnge the url in twillio website
