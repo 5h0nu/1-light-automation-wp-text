@@ -4,6 +4,7 @@ led
 led g-1-g
 led in-2-d2
 https://thingesp.siddhesh.me/#/
+power suplly to esp32
 
 wesite for number configration also remeber to chnge the url in twillio website
 https://www.twilio.com
